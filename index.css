@@ -1,0 +1,93 @@
+
+
+body {
+	font-size: 15px;
+    line-height: 1.52;
+    color: #717f86;
+    font-size: 16px;
+	font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+}
+
+
+.navbar-width{
+  width:400px;
+}
+
+.long-height {
+  height:5rem;
+}
+
+.banner{
+	background: url('Rectangle\ 1.jpg') no-repeat center top;
+  background-size: cover;
+	min-height: 365px;
+  position: relative;
+  margin-bottom:2rem;
+}
+.bg-color{
+	background-color: RGBA(12, 11, 11, 0.62);
+  min-height: 365px;
+  display:flex;
+  justify-content: center;
+  align-items: center;
+}
+.text-dec{
+	font-size: 52px;
+  color: #fff;
+  align-self: center;
+  letter-spacing:0.5px;
+}
+
+
+/**article**/
+.img-left {
+  width:100%;
+  height:auto;
+}
+
+
+.art-header {
+  color:black;
+  margin-bottom:1rem;
+}
+.sub-topic {
+  font-size: 52px;
+  line-height:65px;
+}
+.ltl-sub-topic{
+  font-size:22px;
+  line-height:30px;
+}
+
+.right-word {
+font-family: Work Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 30px;
+letter-spacing: 0.5px;
+color: #666666;
+}
+
+.article {
+  padding-right:50px;
+  padding-left:50px;
+}
+
+.ft-link {
+  color:white;
+}
+.ft-link:hover {
+  color:white;
+}
+
+.copy-right {
+  display:flex;
+  align-items: center;
+}
+
+.list-links {
+  display:flex;
+  align-items: center;
+}
